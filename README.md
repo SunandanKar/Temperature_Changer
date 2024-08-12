@@ -20,12 +20,12 @@ To run this project, you'll need Python installed on your machine. You can downl
    
 2. Navigate to the project directory:
    ```bash
-   cd temperature-converter
+   cd Temperature_Changer.py
    ```
 
 3. Run the application:
    ```bash
-   python temperature_converter.py
+   python Temperature_Changer.py
    ```
 
 ## Usage
