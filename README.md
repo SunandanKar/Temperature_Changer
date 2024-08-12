@@ -15,7 +15,7 @@ To run this project, you'll need Python installed on your machine. You can downl
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/temperature-converter.git
+   git https://github.com/SunandanKar/Temperature_Changer/blob/main/Temperature_Changer.py
    ```
    
 2. Navigate to the project directory:
